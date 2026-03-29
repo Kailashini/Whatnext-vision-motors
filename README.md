@@ -9,31 +9,50 @@ It helps manage vehicles, customers, services, and bookings efficiently while pr
 Features
 
  Customer Management – Store and manage customer details
+ 
  Vehicle Management – Track vehicle information and history
+ 
  Service & Maintenance – Schedule and monitor services
+ 
  Booking System – Book test drives and service appointments
+ 
  Billing System – Generate invoices and track payments
+ 
  Dashboard – View analytics and reports
 
 Technologies Used
+
 Salesforce CRM
+
 Flow Builder
+
 Apex Trigger
 
 Modules
-Admin Module
-Customer Module
+
+Admin 
+
+Customer 
+
 Vehicle Module
+
 Service Module
+
 Payment Module
+
 Analytics Module
 
  Team Members
+ 
  Kailashini
+ 
  Kameshwaran
+ 
  Vijayalakshmi
+ 
  Vasan
 
  Outcome
+ 
  Developed a smart automotive management system with CRM, vehicle tracking, service automation, and data analytics to improve efficiency and user experience.
 
