@@ -2,9 +2,7 @@ WHATNEXT VISION MOTORS: SHAPING THE FUTURE OF MOBILITY WITH INNOVATION AND EXCEL
 
 Project Overview
      
- WhatNext Vision Motors is a smart automotive management system designed to improve mobility services using modern technologies.
-
-It helps manage vehicles, customers, services, and bookings efficiently while providing insights through analytics. The system focuses on automation, user experience, and future-ready mobility solutions.
+ WhatNext Vision Motors is a smart automotive management system designed to improve mobility services using Salesforce.
 
 Features
 
@@ -20,31 +18,11 @@ Features
  
  Dashboard – View analytics and reports
 
-Technologies Used
-
-Salesforce CRM
-
-Flow Builder
-
-Apex Trigger
-
-Modules
-
-Admin 
-
-Customer 
-
-Vehicle Module
-
-Service Module
-
-Payment Module
-
-Analytics Module
-
 Documentation
 
 [Project Report](https://github.com/Kailashini/Whatnext-vision-motors/blob/main/Report.pdf)
+
+
  
  Team Members
  
@@ -55,8 +33,3 @@ Documentation
  Vijayalakshmi
  
  Vasan
-
- Outcome
- 
- Developed a smart automotive management system with CRM, vehicle tracking, service automation, and data analytics to improve efficiency and user experience.
-
