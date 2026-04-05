@@ -18,12 +18,6 @@ Features
  
  Dashboard – View analytics and reports
 
-Documentation
-
-[Project Report](https://github.com/Kailashini/Whatnext-vision-motors/blob/main/Report.pdf)
-
-
- 
  Team Members
  
  Kailashini
